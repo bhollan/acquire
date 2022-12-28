@@ -1,8 +1,6 @@
 username_to_user_id = {
-    # log_timestamp: 1408905413
     "tlstyer": 1,
     "StuHoze": 2,
-    # log_timestamp: 1408911415
     "BooYahh": 3,
     "test1": 4,
     "test2": 5,
@@ -10,38 +8,24 @@ username_to_user_id = {
     "Erwin": 7,
     "Test": 8,
     "Test7": 9,
-    # log_timestamp: 1408983756
     "Buchi": 10,
     "festi_udo": 11,
     "festi:udo": 12,
     "coyote": 13,
     "Olsen": 14,
-    # log_timestamp: 1409066373
     "coyote2": 15,
-    # log_timestamp: 1409131928
-    # log_timestamp: 1409233190
     "Mr Brain": 16,
     "ILoveTower": 17,
     "Players": 18,
     "preph": 19,
     "CJ": 20,
     "Tax Man": 21,
-    # log_timestamp: 1409539337
     "old dad": 22,
     "kielius": 23,
-    # log_timestamp: 1409598352
-    # log_timestamp: 1409608378
-    # log_timestamp: 1409676008
     "TILES-TEAMS!": 24,
-    # log_timestamp: 1409704819
-    # log_timestamp: 1409705364
     "StuHoze-safari": 25,
     "paullyroae": 26,
-    # log_timestamp: 1409754745
-    # log_timestamp: 1409774414
     "RT-TEAMS-PARTNERS": 27,
-    # log_timestamp: 1409878625
-    # log_timestamp: 1409991008
     "ahwang2000": 28,
     "ghwang": 29,
     "BMA": 30,
@@ -51,22 +35,15 @@ username_to_user_id = {
     "ravaz": 34,
     "deadlast": 35,
     "dez": 36,
-    # log_timestamp: 1410473774
     "elsif": 37,
     "ralph": 38,
     "larry1959": 39,
     "$teve": 40,
-    # log_timestamp: 1410483640
-    # log_timestamp: 1410484231
     "dfasdfsdaf": 41,
     "sublee": 42,
     "dj174.52": 43,
-    # log_timestamp: 1410538436
-    # log_timestamp: 1410542907
-    # log_timestamp: 1410550159
     "maxwell": 44,
     "dash": 45,
-    # log_timestamp: 1410595329
     "MeRLiN===+~*TEAMS": 46,
     "HPA": 47,
     "preph2": 48,
@@ -74,17 +51,15 @@ username_to_user_id = {
     "mansoor": 50,
     "KABOOK-TEAMS": 51,
     "mansoor1": 52,
-    # log_timestamp: 1410677446
-    # log_timestamp: 1410695316
     "Marvelous": 53,
-    "fiqs8swd145dy92c": 54,  # original non-ascii: 这是在中国
-    "-nze4dzff52cgpjczfbc1g": 55,  # original non-ascii: اس چینی میں ہے
-    "fiq06lpucqwry6ww1b": 56,  # original non-ascii: 中国的用户名
-    "-btdbbgl6ajwoc7f7gggde5h": 57,  # original non-ascii: اسم المستخدم العربي
-    "-jlgs6cvaem4bpb0dp5iecdt9w": 58,  # original non-ascii: ચિની વપરાશકર્તા નામ
-    "-jlggz2cc7ao8bodb0er6jfec1aq1z": 59,  # original non-ascii: ગુજરાતી વપરાશકર્તા નામ
-    "-j8dn0d5dovs6ewb5bh5l": 60,  # original non-ascii: ਰਸ਼ੀਅਨ ਉਪਭੋਗੀ
-    "-8weqdbujchc0b9i3d5dfe": 61,  # original non-ascii: தமிழ் பயனர்பெயர்
+    "fiqs8swd145dy92c": 54,  
+    "-nze4dzff52cgpjczfbc1g": 55,
+    "fiq06lpucqwry6ww1b": 56,
+    "-btdbbgl6ajwoc7f7gggde5h": 57,
+    "-jlgs6cvaem4bpb0dp5iecdt9w": 58,
+    "-jlggz2cc7ao8bodb0er6jfec1aq1z": 59,
+    "-j8dn0d5dovs6ewb5bh5l": 60,
+    "-8weqdbujchc0b9i3d5dfe": 61,
     "Arizona State": 62,
     "striker": 63,
     "UndNochEinStriker": 64,
@@ -104,20 +79,14 @@ username_to_user_id = {
     "Wasabis": 78,
     "aonghus": 79,
     "Paddles": 80,
-    # log_timestamp: 1411147836
-    # log_timestamp: 1411150098
     "JebronLames": 81,
     "Pops": 82,
-    # log_timestamp: 1411196445
-    # log_timestamp: 1411197382
     "Gforce4u": 83,
-    # log_timestamp: 1411217707
     "bop52465": 84,
     "Player1234": 85,
     "Zkotti": 86,
     "Reebdoog": 87,
     "FatboySlim": 88,
-    # log_timestamp: 1411327536
     "knicks1": 89,
     "polo123": 90,
     "GrosBoB": 91,
@@ -130,8 +99,6 @@ username_to_user_id = {
     "32": 98,
     "slandancer": 99,
     "Mr Bent": 100,
-    # log_timestamp: 1411727188
-    # log_timestamp: 1411727569
     "zbetatyali": 101,
     "skullie": 102,
     "azsdfghj": 103,
@@ -144,15 +111,10 @@ username_to_user_id = {
     "Lady lover": 110,
     "thenikopico": 111,
     "unhandyandy": 112,
-    # log_timestamp: 1412007377
-    # log_timestamp: 1412007779
-    # log_timestamp: 1412008122
     "Mickey": 113,
     "Mbrown196": 114,
     "WebbWilder": 115,
-    # log_timestamp: 1412093930
     "PetroAg": 116,
-    # log_timestamp: 1412181582
     "Profit Mohammed": 117,
     "Raoul": 118,
     "Alias": 119,
@@ -179,19 +141,15 @@ username_to_user_id = {
     "useruser": 140,
     "connolge": 141,
     "DRM": 142,
-    # log_timestamp: 1412699048
     "The_Big_O": 143,
     "gtholmes99": 144,
     "jako": 145,
     "j": 146,
     "scissorhand": 147,
     "hesswill": 148,
-    # log_timestamp: 1413056731
     "scissorhand2020my20": 149,
     "nomadbrad": 150,
     "EZDuzit": 151,
-    # log_timestamp: 1413173319
-    # log_timestamp: 1413173646
     "Rabidza": 152,
     "brad": 153,
     "fredjudd": 154,
@@ -200,7 +158,6 @@ username_to_user_id = {
     "jarizl": 157,
     "warn": 158,
     "sohailhussain": 159,
-    # log_timestamp: 1413517288
     "srluser": 160,
     "Dirkiedorus": 161,
     "irontesh": 162,
@@ -221,20 +178,13 @@ username_to_user_id = {
     "Cloud9": 177,
     "DadFletcher": 178,
     "cblankes": 179,
-    # log_timestamp: 1413882385
-    # log_timestamp: 1413887762
-    # log_timestamp: 1413889672
     "hus": 180,
     "VIIV": 181,
-    # log_timestamp: 1413949823
-    # log_timestamp: 1413950041
-    # log_timestamp: 1413951615
     "aletz99": 182,
     "mrosemberg": 183,
     "thomas34": 184,
     "tc243": 185,
     "benny74": 186,
-    # log_timestamp: 1414061517
     "SB74": 187,
     "ACA": 188,
     "RustyShackleferd": 189,
@@ -255,7 +205,6 @@ username_to_user_id = {
     "Frunobulax": 204,
     "Sneaky": 205,
     "disenchanted 66.234": 206,
-    # log_timestamp: 1414230843
     "arjun": 207,
     "CDC6600": 208,
     "Hammer": 209,
@@ -279,9 +228,7 @@ username_to_user_id = {
     "Emmy": 227,
     "Deadlast": 228,
     "ref": 229,
-    # log_timestamp: 1414405326
     "Archie": 230,
-    # log_timestamp: 1414422288
     "Evil Profiteer": 231,
     "AcquireRocks": 232,
     "Golden Knight": 233,
@@ -291,38 +238,25 @@ username_to_user_id = {
     "deefletch": 237,
     "Kyle and Soph": 238,
     "LenV": 239,
-    # log_timestamp: 1414473668
-    # log_timestamp: 1414480904
     "Fullback": 240,
     "SchadeBP": 241,
     "Etta": 242,
     "Bell": 243,
     "Dark Side of the Moon Teams": 244,
     "chess matters": 245,
-    # log_timestamp: 1414575773
     "arjun12": 246,
     "gatkeri": 247,
     "lucteluc": 248,
     "Troy": 249,
-    # log_timestamp: 1414664398
-    # log_timestamp: 1414666199
-    # log_timestamp: 1414668805
     "Shyster": 250,
     "d.choi": 251,
     "yoyo314": 252,
     "hofforr2": 253,
     "BestInvest": 254,
-    # log_timestamp: 1414760147
-    # log_timestamp: 1414760601
-    # log_timestamp: 1414761097
     "tlstyer2": 255,
-    # log_timestamp: 1414764678
-    # log_timestamp: 1414772127
-    # log_timestamp: 1414772381
     "ZAG": 256,
     "ataraxy": 257,
     "nandesukamarshal": 258,
-    # log_timestamp: 1414827614
     "OTI": 259,
     "Motty": 260,
     "Jet": 261,
@@ -330,12 +264,9 @@ username_to_user_id = {
     "Zepherox": 263,
     "shaffont": 264,
     "kjs02": 265,
-    # log_timestamp: 1414930631
-    # log_timestamp: 1414931442
     "Kinitech": 266,
     "Wuufu": 267,
     "Jonielle": 268,
-    # log_timestamp: 1415022402
     "lineetta": 269,
     "tentimes": 270,
     "g_khaitan": 271,
@@ -352,7 +283,6 @@ username_to_user_id = {
     "Jo MaMa": 282,
     "Foxx": 283,
     "JayKapoor": 284,
-    # log_timestamp: 1415355783
     "John": 285,
     "Seth": 286,
     "bulletsbrian": 287,
@@ -395,7 +325,6 @@ username_to_user_id = {
     "BGiants10": 324,
     "Young Lust Teams": 325,
     "Young Lust Team": 326,
-    # log_timestamp: 1416131501
     "boombust": 327,
     "Pigland": 328,
     "Mental-Jamboree": 329,
@@ -408,7 +337,6 @@ username_to_user_id = {
     "Smackers": 336,
     "jason": 337,
     "Jet1": 338,
-    # log_timestamp: 1416560666
     "asdfasdf": 339,
     "merger": 340,
     "mmtx": 341,
@@ -455,7 +383,6 @@ username_to_user_id = {
     "'nother crap tile": 382,
     "vtalger": 383,
     "expandrew": 384,
-    # log_timestamp: 1417176502
     "space2": 385,
     "Surfer": 386,
     "dang727": 387,
@@ -477,7 +404,6 @@ username_to_user_id = {
     "zz": 403,
     "MoneyBags0363": 404,
     "CALLI111Hammer": 405,
-    # log_timestamp: 1417421439
     "Zneeker": 406,
     "Tantusar": 407,
     "vik": 408,
@@ -488,7 +414,6 @@ username_to_user_id = {
     "can't not lose": 413,
     "KeyOFC": 414,
     "Maverick": 415,
-    # log_timestamp: 1417681308
     "PCoat": 416,
     "Poyo": 417,
     "zecalifazecalifa": 418,
@@ -518,7 +443,6 @@ username_to_user_id = {
     "abcd": 442,
     "YATEAM": 443,
     "Standerator": 444,
-    # log_timestamp: 1418198173
     "djmarkoz": 445,
     "3_PLZ": 446,
     "irene22022": 447,
@@ -544,7 +468,6 @@ username_to_user_id = {
     "dhq": 467,
     "ave76": 468,
     "StuHozestuhoze123": 469,
-    # log_timestamp: 1418805302
     "`Shyster": 470,
     "Jedds": 471,
     "Jonrahoi": 472,
@@ -603,12 +526,10 @@ username_to_user_id = {
     "xavier": 525,
     "archie": 526,
     "Numb": 527,
-    "&#66;": 528,
     "cod": 529,
     "koostaks": 530,
     "Crassus": 531,
     "DangerMouse": 532,
-    # log_timestamp: 1419177136
     "DukeWiggles": 533,
     "Fred": 534,
     "slushy": 535,
@@ -617,38 +538,35 @@ username_to_user_id = {
     "Big Pete": 538,
     "adastra57": 539,
     "YATEAM1packma9999": 540,
-    # log_timestamp: 1419239739
     "lk": 541,
     "noripcord7": 542,
     "J24gordon": 543,
     "boo boo": 544,
-    "of-vfc": 545,  # original non-ascii: ϲof
-    "tltyer-jvf": 546,  # original non-ascii: tlѕtyer
+    "of-vfc": 545,  
+    "tltyer-jvf": 546,
     "MarcusAurelius": 547,
-    "hfforr-wqf": 548,  # original non-ascii: hоfforr
-    "StuHze-zqf": 549,  # original non-ascii: StuHоze
-    "strikr-7of": 550,  # original non-ascii: strikеr
-    "cyote-jye": 551,  # original non-ascii: cоyote
-    "Mr Bran-wog": 552,  # original non-ascii: Mr Braіn
+    "hfforr-wqf": 548,
+    "StuHze-zqf": 549,
+    "strikr-7of": 550,
+    "cyote-jye": 551,
+    "Mr Bran-wog": 552,
     "Fraud": 553,
     "playwithme": 554,
-    "rf-nlc": 555,  # original non-ascii: rеf
-    "Reebdog-fjg": 556,  # original non-ascii: Reebdoоg
-    "Arizona stat-3ck": 557,  # original non-ascii: Arizona statе
-    "Arizona Stat-3ck": 558,  # original non-ascii: Arizona Statе
+    "rf-nlc": 555,
+    "Reebdog-fjg": 556,
+    "Arizona stat-3ck": 557,  
+    "Arizona Stat-3ck": 558, 
     "Tiggercr": 559,
-    "RT-TEMS-PARTNERS-p5k": 560,  # original non-ascii: RT-TEΑMS-PARTNERS
+    "RT-TEMS-PARTNERS-p5k": 560,
     "kevhanc": 561,
     "wobegonder": 562,
     "Eorge": 563,
     "ruhrho": 564,
-    # log_timestamp: 1419332929
     "Jaydub": 565,
     "bobdealing": 566,
     "Tryan003": 567,
     "irenephillips": 568,
     "lightbovvz": 569,
-    # log_timestamp: 1419421405
     "mj": 570,
     "Natedawg": 571,
     "phillip": 572,
@@ -662,7 +580,6 @@ username_to_user_id = {
     "MR": 580,
     "Henger": 581,
     "Striker=1": 582,
-    # log_timestamp: 1419595452
     "fyrefreez": 583,
     "Bob1": 584,
     "BOb": 585,
@@ -694,9 +611,8 @@ username_to_user_id = {
     "hook.com": 611,
     "Cfralick": 612,
     "Thaszun": 613,
-    # log_timestamp: 1419852672
     "coffeedave": 614,
-    "Snaky-0we": 615,  # original non-ascii: Snеaky
+    "Snaky-0we": 615,  
     "Uscballer2001": 616,
     "MoDify": 617,
     "Tricky": 618,
@@ -722,8 +638,6 @@ username_to_user_id = {
     "Sneaky..": 638,
     "ref.": 639,
     "spaceEg. G": 640,
-    # log_timestamp: 1420021013
-    # log_timestamp: 1420030521
     "Jon": 641,
     "iteachm": 642,
     "AL_Champs": 643,
@@ -788,7 +702,6 @@ username_to_user_id = {
     "purplemamba": 702,
     "andrew": 703,
     "Obdo": 704,
-    # log_timestamp: 1420632457
     "Marvic": 705,
     "cancam": 706,
     "Fletcher04": 707,
@@ -810,7 +723,6 @@ username_to_user_id = {
     "Vanwij": 723,
     "Timon": 724,
     "TT": 725,
-    # log_timestamp: 1420806581
     "mckyj57": 726,
     "katiegirl": 727,
     "steeb": 728,
@@ -844,12 +756,8 @@ username_to_user_id = {
     "looey": 756,
     "Brady": 757,
     "1": 758,
-    # log_timestamp: 1421056911
-    # log_timestamp: 1421057324
     "temp": 759,
     "drewhall1981": 760,
-    # log_timestamp: 1421142698
-    # log_timestamp: 1421142799
     "Sufer 2": 761,
     "Sufer's boyfriend": 762,
     "doglover88": 763,
@@ -895,7 +803,6 @@ username_to_user_id = {
     "prestonise": 803,
     "MYR": 804,
     "GusTTShowbiz": 805,
-    # log_timestamp: 1421578193
     "UNLUKY": 806,
     "folky": 807,
     "tttg": 808,
@@ -1079,7 +986,6 @@ username_to_user_id = {
     "kirby": 986,
     "Alexander Philip Brandt": 987,
     "surprise": 988,
-    # log_timestamp: 1422958612
     "fletch2": 989,
     "NIKITIS": 990,
     "shinigami": 991,
@@ -1088,7 +994,6 @@ username_to_user_id = {
     "Lars scoville": 994,
     "KillerBee": 995,
     "imviswa1": 996,
-    # log_timestamp: 1423037351
     "MoreCowbell": 997,
     "Sam": 998,
     "NEON": 999,
@@ -1173,7 +1078,6 @@ username_to_user_id = {
     "SlowPoke": 1078,
     "mungbeanedaphi1729": 1079,
     "Tristen208": 1080,
-    # log_timestamp: 1424164983
     "XXX": 1081,
     "nowpl": 1082,
     "NewForce": 1083,
@@ -1233,7 +1137,6 @@ username_to_user_id = {
     "rekirts": 1137,
     "dkavaichan": 1138,
     "StuHozestuhoze12": 1139,
-    # log_timestamp: 1424943281
     "its in there": 1140,
     "so": 1141,
     "george of jungle": 1142,
@@ -1412,7 +1315,6 @@ username_to_user_id = {
     "Usonian74": 1315,
     "a3001": 1316,
     "CHlM3RA": 1317,
-    # log_timestamp: 1427270069
     "yolo!": 1318,
     "CJJScout": 1319,
     "jinu": 1320,
@@ -1647,7 +1549,6 @@ username_to_user_id = {
     "kcanuck": 1549,
     "lnavrazh": 1550,
     "hawktro": 1551,
-    # log_timestamp: 1430041771
     "YATEAM A QUITTER": 1552,
     "YATEAM POPS A QUITTER": 1553,
     "YATEAM IS A QUITTER": 1554,
@@ -1793,9 +1694,6 @@ username_to_user_id = {
     "magicc": 1694,
     "m12345": 1695,
     "google2000": 1696,
-    # log_timestamp: 1432029807
-    # log_timestamp: 1432029998
-    # log_timestamp: 1432033655
     "TILES'": 1697,
     "ivolimmen": 1698,
     "PT": 1699,
@@ -1844,7 +1742,6 @@ username_to_user_id = {
     "Tens": 1742,
     "ghostrider": 1743,
     "ralphie": 1744,
-    # log_timestamp: 1432798259
     "xczx": 1745,
     "ABC": 1746,
     "nikoslemon": 1747,
@@ -1872,7 +1769,6 @@ username_to_user_id = {
     "Waldo1": 1769,
     "Waldo2": 1770,
     "zxcv": 1771,
-    # log_timestamp: 1433241253
     "gerrysu": 1772,
     "Booster": 1773,
     "cleaner": 1774,
@@ -1912,7 +1808,6 @@ username_to_user_id = {
     "eloc the awesome": 1808,
     "beefandbroccoli": 1809,
     "lolyayaya": 1810,
-    # log_timestamp: 1433837429
     "hankscorpio83": 1811,
     "daeton": 1812,
     "RangrangMyWangwang": 1813,
@@ -2017,7 +1912,6 @@ username_to_user_id = {
     "Dummie": 1912,
     "Souther": 1913,
     "kyledrake": 1914,
-    # log_timestamp: 1435226336
     "Greydantes": 1915,
     "pfrpfr": 1916,
     "SGHotelWizard": 1917,
@@ -2136,7 +2030,6 @@ username_to_user_id = {
     "Stet": 2030,
     "jtmjontm": 2031,
     "chess is a quitter": 2032,
-    # log_timestamp: 1437385742
     "chaniamar": 2033,
     "sapecancio": 2034,
     "Scorpi": 2035,
@@ -2146,7 +2039,6 @@ username_to_user_id = {
     "melt": 2039,
     "melter": 2040,
     "gup": 2041,
-    "0.]\\\\\\": 2042,
     "labrador": 2043,
     "ralph.": 2044,
     "ralph. oesn": 2045,
@@ -2172,7 +2064,6 @@ username_to_user_id = {
     "nwmorri": 2065,
     "newplayer1": 2066,
     "Katie": 2067,
-    # log_timestamp: 1437822403
     "Waiting for StuHoze": 2068,
     "mountain_man_224": 2069,
     "essron": 2070,
@@ -2201,7 +2092,6 @@ username_to_user_id = {
     "gveliopoulos": 2093,
     "Land_tax": 2094,
     "tacodog": 2095,
-    # log_timestamp: 1438168471
     "Meatball": 2096,
     "TheGrinch": 2097,
     "Placebo": 2098,
@@ -2262,11 +2152,8 @@ username_to_user_id = {
     "howdy dont want t finish g3": 2153,
     "g3 is waiting howdy": 2154,
     "moe": 2155,
-    # log_timestamp: 1439367974
     "Whitebear please finish!": 2156,
     "groopy": 2157,
-    # log_timestamp: 1439455096
-    # log_timestamp: 1439455745
     "Shareholder": 2158,
     "COLUMBO IS A QUITTER": 2159,
     "OpNop": 2160,
@@ -2283,7 +2170,6 @@ username_to_user_id = {
     "tucagaio": 2171,
     "Land-tax": 2172,
     "shoobakka": 2173,
-    # log_timestamp: 1439977655
     "Game Saver Tax Man": 2174,
     "preph finish plse": 2175,
     "arjun finish plse": 2176,
@@ -2330,10 +2216,8 @@ username_to_user_id = {
     "SOULMAJESTIC IS A QUITTER": 2217,
     "Finish The Game Please": 2218,
     "spocks beard": 2219,
-    # log_timestamp: 1441273144
     "Sneaky don't be so impatient": 2220,
     "DinoZ0r": 2221,
-    # log_timestamp: 1441282475
     "jet1": 2222,
     "de102222howdy": 2223,
     "tenebra": 2224,
@@ -2358,10 +2242,7 @@ username_to_user_id = {
     "acquire2847": 2243,
     "fourseasons": 2244,
     "born2hunt": 2245,
-    # log_timestamp: 1441698971
-    # log_timestamp: 1441699024
     "focus needs to end": 2246,
-    # log_timestamp: 1441786623
     "CDC Finish!!!": 2247,
     "666": 2248,
     "mike1996": 2249,
@@ -2478,7 +2359,6 @@ username_to_user_id = {
     "arjun pulled out early": 2360,
     "NotU finish game": 2361,
     "jludden": 2362,
-    # log_timestamp: 1444209908
     "vitorlessa": 2363,
     "Politovski": 2364,
     "aaab2001": 2365,
@@ -2532,7 +2412,6 @@ username_to_user_id = {
     "jcampbell@swlsb.ca": 2413,
     "MoMoney": 2414,
     "columbo1": 2415,
-    # log_timestamp: 1445331137
     "james": 2416,
     "ryanpatmiller": 2417,
     "cnuzback": 2418,
@@ -2736,7 +2615,6 @@ username_to_user_id = {
     "Popo": 2616,
     "Skyangel23": 2617,
     "tmdock": 2618,
-    # log_timestamp: 1448535668
     "Engibeer30": 2619,
     "Adeline": 2620,
     "Ro dog": 2621,
@@ -3310,7 +3188,6 @@ username_to_user_id = {
     "PARTNERTRACK": 3189,
     "Udafool Game Saver1": 3190,
     "goon": 3191,
-    # log_timestamp: 1453367663
     "champ": 3192,
     "kingkavi94": 3193,
     "weserickson15": 3194,
@@ -4071,7 +3948,6 @@ username_to_user_id = {
     "DrAliass": 3949,
     "MENSA INTERNATIONAL": 3950,
     "CubaBike": 3951,
-    # log_timestamp: 1459418287
     "mosko": 3952,
     "Olegich_k": 3953,
     "OLIVA MAN": 3954,
@@ -4692,7 +4568,6 @@ username_to_user_id = {
     "`NotU": 4569,
     "'NotU": 4570,
     "Sarah": 4571,
-    # log_timestamp: 1465114242
     "tiger": 4572,
     "radar1079": 4573,
     "jem3772": 4574,
@@ -5230,7 +5105,6 @@ username_to_user_id = {
     "Alias with out Patience Quits": 5106,
     "Faruk Sucks!!": 5107,
     "zizi": 5108,
-    # log_timestamp: 1470215140
     "zmr10128": 5109,
     "brian2134": 5110,
     "Jofaircloth": 5111,
@@ -5667,7 +5541,6 @@ username_to_user_id = {
     "Conti": 5542,
     "nnn": 5543,
     "GOLAN": 5544,
-    # log_timestamp: 1474792990
     "theman33": 5545,
     "GODIN": 5546,
     "Ggggg": 5547,
@@ -6212,7 +6085,6 @@ username_to_user_id = {
     "I got 2 Phones": 6086,
     "srswitzer": 6087,
     "tralice": 6088,
-    # log_timestamp: 1479980862
     "rmoyer": 6089,
     "moyerbabe": 6090,
     "QUITTER": 6091,
@@ -6645,10 +6517,6 @@ username_to_user_id = {
     "shultzy65": 6518,
     "wizz87": 6519,
     "Gratastic": 6520,
-    # log_timestamp: 1483097751
-    # log_timestamp: 1483099397
-    # log_timestamp: 1483108645
-    # log_timestamp: 1483108799
     "Foo": 6521,
     "Scrab": 6522,
     "Gerry2016": 6523,
@@ -6685,7 +6553,6 @@ username_to_user_id = {
     "xxsdfh": 6554,
     "paul": 6555,
     "trip": 6556,
-    # log_timestamp: 1483363628
     "Udafool17": 6557,
     "NotU v2017": 6558,
     "NotU v17": 6559,
@@ -6957,7 +6824,6 @@ username_to_user_id = {
     "SadRoger": 6825,
     "Frozen503": 6826,
     "henloibis": 6827,
-    # log_timestamp: 1485158840
     "JMC": 6828,
     "pt": 6829,
     "pp": 6830,
@@ -7045,7 +6911,6 @@ username_to_user_id = {
     "poharvey": 6912,
     "redbad61": 6913,
     "LeifErikson": 6914,
-    # log_timestamp: 1486162191
     "banshee300": 6915,
     "Clund": 6916,
     "Acquire247": 6917,
@@ -7926,7 +7791,6 @@ username_to_user_id = {
     "yare": 7792,
     "mconbenit": 7793,
     "superadre": 7794,
-    # log_timestamp: 1494854338
     "curry30": 7795,
     "eeh": 7796,
     "Klose out the game KOKO": 7797,
@@ -8552,7 +8416,6 @@ username_to_user_id = {
     "Trent340": 8417,
     "Coffeedavid": 8418,
     "ggheisman": 8419,
-    # log_timestamp: 1503733793
     "bbcc": 8420,
     "troublesome": 8421,
     "Rahmstad": 8422,
@@ -8618,7 +8481,6 @@ username_to_user_id = {
     "cheko5": 8482,
     "Jbisc95": 8483,
     "rusler": 8484,
-    # log_timestamp: 1504774774
     "lord trump": 8485,
     "Soto15": 8486,
     "ULAY FINISH": 8487,
@@ -8789,7 +8651,6 @@ username_to_user_id = {
     "blackjack": 8652,
     "www my": 8653,
     "Alkaline3": 8654,
-    # log_timestamp: 1506907768
     "aaroneuth": 8655,
     "Tubberduckies": 8656,
     "columbia": 8657,
@@ -8930,7 +8791,6 @@ username_to_user_id = {
     "polyyyf": 8792,
     "lecoco -cheats-dual player": 8793,
     "turbo don't quit": 8794,
-    # log_timestamp: 1508182678
     "Esquire": 8795,
     "jack225": 8796,
     "tileguru": 8797,
@@ -9262,7 +9122,6 @@ username_to_user_id = {
     "nrm": 9123,
     "KABOOK-TEAMS1 gamesave": 9124,
     "Lenz": 9125,
-    # log_timestamp: 1511554298
     "philipjdegroot": 9126,
     "ThePickle": 9127,
     "cfcfgcgcghjc": 9128,
@@ -9672,7 +9531,6 @@ username_to_user_id = {
     "Hogman": 9532,
     "marshal18": 9533,
     "peeerstep": 9534,
-    # log_timestamp: 1514744670
     "DukeEgr93": 9535,
     "Mij951": 9536,
     "MacD": 9537,
@@ -9877,7 +9735,6 @@ username_to_user_id = {
     "Mitch": 9736,
     "GS": 9737,
     "waykuhl": 9738,
-    # log_timestamp: 1516176574
     "Fro": 9739,
     "ssup": 9740,
     "Pogban": 9741,
@@ -10115,7 +9972,6 @@ username_to_user_id = {
     "BS4520-DVOR": 9973,
     "BS4520-FALK": 9974,
     "BS4520-JJRA": 9975,
-    # log_timestamp: 1518702276
     "BS4520": 9976,
     "BS4520-ENMM": 9977,
     "Gummybaron": 9978,
@@ -10126,7 +9982,6 @@ username_to_user_id = {
     "Kbear": 9983,
     "Acquire2018": 9984,
     "Michael": 9985,
-    # log_timestamp: 1518883418
     "btarna11": 9986,
     "space8ay": 9987,
     "mad Max": 9988,
@@ -10138,9 +9993,6 @@ username_to_user_id = {
     "AD360": 9994,
     "TPHisAQuitter": 9995,
     "rak1990": 9996,
-    # log_timestamp: 1518948781
-    # log_timestamp: 1518950904
-    # log_timestamp: 1518952195
     "HotSaxon": 9997,
     "Deatheater1127": 9998,
     "BS4520-FBGM": 9999,
@@ -10487,7 +10339,6 @@ username_to_user_id = {
     "Steveo": 10340,
     "erick": 10341,
     "SoPuzzyPuzzy": 10342,
-    # log_timestamp: 1520848828
     "Lachdog123": 10343,
     "POOKO": 10344,
     "Doug49lass!!?IAdoug2018": 10345,
@@ -10682,7 +10533,6 @@ username_to_user_id = {
     "sha": 10534,
     "dhughes1021": 10535,
     "goldberg": 10536,
-    # log_timestamp: 1522742472
     "finch": 10537,
     "Don't leave Join this game": 10538,
     "LENZ=quitter": 10539,
@@ -10799,7 +10649,6 @@ username_to_user_id = {
     "jessej45": 10650,
     "Thuddud": 10651,
     "Aasha": 10652,
-    # log_timestamp: 1523953463
     "Victoria": 10653,
     "Gandalf": 10654,
     "aasha": 10655,
@@ -10868,9 +10717,6 @@ username_to_user_id = {
     "BakerM": 10718,
     "Tonsil": 10719,
     "Tonsilitis": 10720,
-    # log_timestamp: 1524833773
-    # log_timestamp: 1524834959
-    # log_timestamp: 1524835265
     "Kylian": 10721,
     "bneustad": 10722,
     "HipsterHamster": 10723,
@@ -10941,7 +10787,6 @@ username_to_user_id = {
     "CCC": 10788,
     "Sir Dancealot": 10789,
     "REX": 10790,
-    # log_timestamp: 1525853448
     "willJ": 10791,
     "Boo Yahh Finish Game": 10792,
     "Mister": 10793,
@@ -11039,7 +10884,6 @@ username_to_user_id = {
     "Phoenix": 10885,
     "kimit": 10886,
     "reddev": 10887,
-    # log_timestamp: 1527443337
     "theandorwhatif": 10888,
     "TheChief": 10889,
     "Gavier": 10890,
@@ -11102,7 +10946,6 @@ username_to_user_id = {
     "mrdavidmoody": 10947,
     "bartran": 10948,
     "jaxe": 10949,
-    # log_timestamp: 1528624495
     "adhoc": 10950,
     "as_please_finish_game": 10951,
     "Soho": 10952,
@@ -11154,7 +10997,6 @@ username_to_user_id = {
     "Shaggy66666": 10998,
     "joe5513": 10999,
     "mwm26a50": 11000,
-    "##": 11001,
     "fartpatrol": 11002,
     "alan@drbinstock.com": 11003,
     "gaygeek": 11004,
@@ -11173,7 +11015,6 @@ username_to_user_id = {
     "SMS": 11017,
     "ronthius is a quitter": 11018,
     "Aegis": 11019,
-    "## is a quitter": 11020,
     "tada": 11021,
     "planetpowpow": 11022,
     "elkhunter quits": 11023,
@@ -11223,7 +11064,6 @@ username_to_user_id = {
     "Holmess": 11067,
     "Que is a quitter": 11068,
     "morti": 11069,
-    # log_timestamp: 1529934258
     "Jayhawks167": 11070,
     "snail_08": 11071,
     "IAdoug2018s turn": 11072,
@@ -11331,7 +11171,6 @@ username_to_user_id = {
     "LIRRMAN": 11174,
     "foxit": 11175,
     "bluzona": 11176,
-    # log_timestamp: 1530950162
     "Chakire": 11177,
     "muchacha": 11178,
     "Storki": 11179,
@@ -11364,7 +11203,6 @@ username_to_user_id = {
     "BLA__": 11206,
     "Alexys": 11207,
     "pc": 11208,
-    # log_timestamp: 1531245861
     "Frankfurter": 11209,
     "Captwhizbang": 11210,
     "vince": 11211,
@@ -11449,7 +11287,6 @@ username_to_user_id = {
     "fatta": 11290,
     "Kenlac": 11291,
     "junnk": 11292,
-    # log_timestamp: 1532443192
     "awesome": 11293,
     "kedzie": 11294,
     "Aaan": 11295,
@@ -11612,7 +11449,6 @@ username_to_user_id = {
     "Mink419a quitter": 11452,
     "t3st": 11453,
     "cdbjarnason": 11454,
-    # log_timestamp: 1534490879
     "Bob marley": 11455,
     "awesomet": 11456,
     "Nate98": 11457,
@@ -11817,7 +11653,6 @@ username_to_user_id = {
     "ck3": 11656,
     "Sh Li": 11657,
     "Xiaodong Liu": 11658,
-    # log_timestamp: 1536289498
     "SY": 11659,
     "xiaosisi": 11660,
     "rofernan": 11661,
@@ -12003,7 +11838,6 @@ username_to_user_id = {
     "penny": 11841,
     "Cierra": 11842,
     "hugb": 11843,
-    # log_timestamp: 1539075805
     "iloveyuv": 11844,
     "benlessard": 11845,
     "fasttits": 11846,
@@ -12186,7 +12020,6 @@ username_to_user_id = {
     "Comfortably Dumb 2018": 12023,
     "Ralph Is My Little Bitch": 12024,
     "Mrnight04": 12025,
-    # log_timestamp: 1542223081
     "towerpower": 12026,
     "jcshivar": 12027,
     "trees": 12028,
@@ -12209,7 +12042,6 @@ username_to_user_id = {
     "LENZ QUITS AGAIN": 12045,
     "EatMyPoo": 12046,
     "playtiles": 12047,
-    # log_timestamp: 1542428275
     "vimsucks": 12048,
     "Hesse0321": 12049,
     "andrewandrew": 12050,
@@ -12325,7 +12157,6 @@ username_to_user_id = {
     "jeff probst": 12160,
     "Notorious": 12161,
     "hofforrquitgamesaver": 12162,
-    # log_timestamp: 1543652602
     "Jeroenh": 12163,
     "Gtyc": 12164,
     "Hasstr": 12165,
@@ -12415,7 +12246,6 @@ username_to_user_id = {
     "chargerssb": 12249,
     "roca": 12250,
     "Quicks": 12251,
-    # log_timestamp: 1544772198
     "Bell23": 12252,
     "graveyard is a quitter": 12253,
     "CarpeDiem": 12254,
@@ -12486,14 +12316,12 @@ username_to_user_id = {
     "mitch2883": 12319,
     "Hardcoremeachie": 12320,
     "223073649": 12321,
-    # log_timestamp: 1545417082
     "space9": 12322,
     "Arbre": 12323,
     "Pc loadletter": 12324,
     "Pc loadletter is a quitter": 12325,
     "Broman": 12326,
     "test000001": 12327,
-    # log_timestamp: 1545473427
     "strikeback158": 12328,
     "squid2018spongepatrick": 12329,
     "MSC": 12330,
@@ -12791,7 +12619,6 @@ username_to_user_id = {
     "Johnny": 12622,
     "ICTSam": 12623,
     "Ralph15": 12624,
-    # log_timestamp: 1547803796
     "jackman": 12625,
     "clarecorthell": 12626,
     "mcmerger": 12627,
@@ -12827,7 +12654,6 @@ username_to_user_id = {
     "catulinancio9": 12657,
     "Omega2019": 12658,
     "babes101": 12659,
-    # log_timestamp: 1548400606
     "disenchanted 66.234ianyss.8": 12660,
     "Morningcx": 12661,
     "cilee": 12662,
@@ -13300,7 +13126,6 @@ username_to_user_id = {
     "oerli": 13129,
     "benji_co": 13130,
     "willd": 13131,
-    # log_timestamp: 1552206220
     "axe-finishgame": 13132,
     "zozozozozo": 13133,
     "El Mar Zion": 13134,
@@ -13532,7 +13357,6 @@ username_to_user_id = {
     "brodywoehl": 13360,
     "BSE-BLW": 13361,
     "Kylo 223.40": 13362,
-    # log_timestamp: 1555063494
     "Rockstar012": 13363,
     "Bmd": 13364,
     "Amaraa": 13365,
@@ -14462,7 +14286,6 @@ username_to_user_id = {
     "xzd": 14289,
     "glokta": 14290,
     "RINTI": 14291,
-    # log_timestamp: 1568534663
     "HPA_is_a_quitter": 14292,
     "2Trash4U": 14293,
     "Andrew856": 14294,
@@ -15464,7 +15287,6 @@ username_to_user_id = {
     "donges": 15290,
     "vprelovac": 15291,
     "aNewQuitter": 15292,
-    # log_timestamp: 1580031953
     "seongju0515": 15293,
     "Joker9": 15294,
     "Sivraj": 15295,
@@ -20545,7 +20367,6 @@ username_to_user_id = {
     "Chirs": 20370,
     "Acq001": 20371,
     "TILES 2020 new": 20372,
-    # log_timestamp: 1591166536
     "batz": 20373,
     "anapuna64": 20374,
     "ruth00": 20375,
@@ -23071,7 +22892,6 @@ username_to_user_id = {
     "Nate1212": 22895,
     "Whatever": 22896,
     "thunderrod": 22897,
-    # log_timestamp: 1601718855
     "Frye nana": 22898,
     "Fryepapa": 22899,
     "tresemme": 22900,
@@ -23235,7 +23055,6 @@ username_to_user_id = {
     "Jd298": 23058,
     "Chewbacca": 23059,
     "Willie": 23060,
-    # log_timestamp: 1602514911
     "FrankKenny": 23061,
     "ulay70": 23062,
     "Test30": 23063,
@@ -23427,12 +23246,9 @@ username_to_user_id = {
     "Cmt": 23249,
     "TiffanyRV91": 23250,
     "blackpink": 23251,
-    # log_timestamp: 1603591604
     "OIigarch#8": 23252,
     "jdhoot": 23253,
-    # log_timestamp: 1603611600
     "Maaike": 23254,
-    # log_timestamp: 1603617797
     "Jetje": 23255,
     "jasperientje": 23256,
     "Diet": 23257,
@@ -23460,7 +23276,6 @@ username_to_user_id = {
     "Griss": 23279,
     "Babe": 23280,
     "Shanut": 23281,
-    # log_timestamp: 1603791507
     "MOURA QUIT THE GAME": 23282,
     "CHARLIE BROWN QUIT THE GAME": 23283,
     "strikeforce=atomimic=crybaby": 23284,
@@ -23476,7 +23291,6 @@ username_to_user_id = {
     "hoolio": 23294,
     "Pepe el Putin": 23295,
     "kubby": 23296,
-    # log_timestamp: 1603879148
     "ELDramaQueen": 23297,
     "marxyongsc": 23298,
     "kubbyohwelliamagenius": 23299,
