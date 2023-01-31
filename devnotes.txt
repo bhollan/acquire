@@ -1,0 +1,13 @@
+server/initialize_database.py
+	comment out subprocess.call
+	run in terminal to create tables
+client/main/index.html:
+	comment/uncomment CDN/local JS files
+server/orm.py
+	create_engine credentials to point to local mysql
+server/server.js
+	server.listen should be an integer
+	mysql credentials
+	ip_address
+client/main/js/network.js
+	server_url should point to local Node socket
